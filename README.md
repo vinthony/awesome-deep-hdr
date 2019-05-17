@@ -21,3 +21,8 @@ A collection of deep learning based methods for HDR image synthesis
 ### Dataset
 
 > todo
+
+
+### Related
+
+* _Deep Bilateral Learning for Real-Time Image Enhancement_ (SIGGRAPH 2017) [[project]](https://groups.csail.mit.edu/graphics/hdrnet/)
