@@ -5,6 +5,7 @@ A collection of deep learning based methods for HDR image synthesis
 ### Multi-view hdr image synthesis
 
 * _Deep high dynamic range imaging of dynamic scenes_ (SIGGRAPH Asia 2017)[[Project]](http://viscomp.ucsd.edu/projects/SIG17HDR/)
+* _Multi-scale Dense Networks for Deep High Dynamic Range Imaging_(WACV 2019)[[IEEE Explore]](https://ieeexplore.ieee.org/document/8658831)
 * _Deep High Dynamic Range Imaging with Large Foreground Motions_ (ECCV 2018) [[Project]](https://elliottwu.com/projects/hdr/)
 * _Attention-guided Network for Ghost-free High Dynamic Range Imaging_ (CVPR 2019) [[ArXiv]](https://arxiv.org/abs/1904.10293)
 
