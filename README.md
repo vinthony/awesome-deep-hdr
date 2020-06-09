@@ -14,10 +14,13 @@ A collection of deep learning based methods for HDR image synthesis
 * _Deep Chain HDRI: Reconstructing a High Dynamic Range Image from a Single Low Dynamic Range Image_ (IEEE Access)[[ArXiv]](https://arxiv.org/abs/1801.06277)
 * _Deep Recursive HDRI: Inverse Tone Mapping using Generative Adversarial Networks_ (ECCV 2018) [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siyeong_Lee_Deep_Recursive_HDRI_ECCV_2018_paper.pdf)
 * _Deep Reverse Tone Mapping_ (SIGGRAPH ASIA 2017) [[project]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
-* _Hybrid Loss for Learning Single-Image-based HDR Reconstruction_ (ArXiv) [[Arxiv]](https://arxiv.org/abs/1812.07134)
+* _Hybrid Loss for Learning Single-Image-based HDR Reconstruction_ (ArXiv) [[ArXiv]](https://arxiv.org/abs/1812.07134)
+* _Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss_ (SIGGRAPH 2020) [[ArXiv]](https://arxiv.org/abs/2005.07335)
+* _Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline_ (CVPR2020) [[ArXiv]](https://arxiv.org/abs/2004.01179)
 
 ### HDR Video
 * _Single-frame Regularization for Temporally Stable CNNs_ (CVPR 2019) [[project]](http://hdrv.org/hdrcnn/cvpr2019)
+* _JSI-GAN: GAN-Based Joint Super-Resolution and Inverse Tone-Mapping with Pixel-Wise Task-Specific Filters for UHD HDR Video_ (AAAI 2020) [[ArXiv]](https://arxiv.org/abs/1909.04391)
 
 ### Dataset
 
