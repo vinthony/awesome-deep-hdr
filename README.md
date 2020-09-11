@@ -8,6 +8,7 @@ A collection of deep learning based methods for HDR image synthesis
 * _Multi-scale Dense Networks for Deep High Dynamic Range Imaging_(WACV 2019)[[IEEE Explore]](https://ieeexplore.ieee.org/document/8658831)
 * _Deep High Dynamic Range Imaging with Large Foreground Motions_ (ECCV 2018) [[Project]](https://elliottwu.com/projects/hdr/)
 * _Attention-guided Network for Ghost-free High Dynamic Range Imaging_ (CVPR 2019) [[ArXiv]](https://arxiv.org/abs/1904.10293)
+* _Deep HDR Imaging via A Non-Local Network_ (TIP 2020) [[IEEE Explore]](https://ieeexplore.ieee.org/abstract/document/8989959) [[Code]](https://github.com/tuvovan/NHDRRNet)
 
 ### Single image hdr reconstruction
 * _HDR image reconstruction from a single exposure using deep CNNs_ (SiGGRAPH Asia 2017) [[Project]](http://hdrv.org/hdrcnn/)
