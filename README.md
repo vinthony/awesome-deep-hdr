@@ -24,8 +24,8 @@ A collection of deep learning based methods for HDR image synthesis
 * _JSI-GAN: GAN-Based Joint Super-Resolution and Inverse Tone-Mapping with Pixel-Wise Task-Specific Filters for UHD HDR Video_ (AAAI 2020) [[ArXiv]](https://arxiv.org/abs/1909.04391)
 
 ### Dataset
-* _Kalantari dataset: (for HDR synthesis) [link](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
-> todo
+* _Kalantari dataset: (for HDR synthesis)_ [link](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
+> updating
 
 
 ### Related
