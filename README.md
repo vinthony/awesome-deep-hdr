@@ -15,6 +15,7 @@ A collection of deep learning based methods for HDR image synthesis
 * _Deep Recursive HDRI: Inverse Tone Mapping using Generative Adversarial Networks_ (ECCV 2018) [[paper]](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siyeong_Lee_Deep_Recursive_HDRI_ECCV_2018_paper.pdf)
 * _Deep Reverse Tone Mapping_ (SIGGRAPH ASIA 2017) [[project]](http://www.npal.cs.tsukuba.ac.jp/~endo/projects/DrTMO/)
 * _Hybrid Loss for Learning Single-Image-based HDR Reconstruction_ (ArXiv) [[ArXiv]](https://arxiv.org/abs/1812.07134)
+* _FHDR: HDR Image Reconstruction from a Single LDR Image using Feedback Network_ (Global SIP 2019) [[ArXiv]](https://arxiv.org/abs/1912.11463) [[Code]](https://github.com/mukulkhanna/fhdr)
 * _Single Image HDR Reconstruction Using a CNN with Masked Features and Perceptual Loss_ (SIGGRAPH 2020) [[ArXiv]](https://arxiv.org/abs/2005.07335)
 * _Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline_ (CVPR2020) [[ArXiv]](https://arxiv.org/abs/2004.01179)
 
