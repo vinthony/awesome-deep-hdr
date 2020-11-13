@@ -32,3 +32,4 @@ A collection of deep learning based methods for HDR image synthesis
 ### Related
 
 * _Deep Bilateral Learning for Real-Time Image Enhancement_ (SIGGRAPH 2017) [[project]](https://groups.csail.mit.edu/graphics/hdrnet/)
+* _HDR MATLAB/Octave Toolbox_ [[Github]](https://github.com/banterle/HDR_Toolbox)
