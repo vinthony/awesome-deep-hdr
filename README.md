@@ -41,6 +41,9 @@ A collection of deep learning based methods for HDR image synthesis
 * _Single-Image HDR Reconstruction by Learning to Reverse the Camera Pipeline_ (**CVPR 2020**) <br>
 [[Paper]](https://arxiv.org/abs/2004.01179) [[Code]](https://github.com/alex04072000/SingleHDR)
 
+* _Learning Image-adaptive 3D Lookup Tables for High Performance Photo Enhancement in Real-time_ (**TPAMI 2020**) <br>
+[[Paper]](https://arxiv.org/abs/2009.14468) [[Code]](https://github.com/HuiZeng/Image-Adaptive-3DLUT)
+
 ### HDR Video
 * _Deep HDR Video from Sequences with Alternating Exposures_ (**Eurographics 2019**) <br>
 [[Paper]](https://people.engr.tamu.edu/nimak/Data/Eurographics19_HDRVideo.pdf)
