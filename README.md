@@ -1,6 +1,10 @@
 # Awesome-Deep-HDR
 A collection of deep learning based methods for HDR image synthesis
 
+### Challenges
+
+* [[CVPR 2021 Workshop]](https://arxiv.org/abs/2106.01439)
+
 
 ### Multi-view hdr image synthesis
 * _Deep high dynamic range imaging of dynamic scenes_ (**SIGGRAPH Asia 2017**)<br>
@@ -57,7 +61,10 @@ A collection of deep learning based methods for HDR image synthesis
 * _HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset_ (**CVPR 2021**) <br> [[ArXiv]](https://arxiv.org/pdf/2103.14943.pdf)
 
 ### Dataset
-* _Kalantari dataset: (for HDR synthesis)_ [[link]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
+* [[Kalantari Dataset in SIGGRAPH17]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
+* [[CVPR19 Single Frame]](https://alex04072000.github.io/SingleHDR/)
+* [[NTIRE 2021 High Dynamic Range Challenge (Track 1 Single Frame)]](https://competitions.codalab.org/competitions/28161#participate-get-data)
+* [[NTIRE 2021 High Dynamic Range Challenge (Track 2 Multi Frame)]](https://competitions.codalab.org/competitions/28162)
 > updating
 
 
