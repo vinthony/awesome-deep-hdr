@@ -30,6 +30,9 @@ A collection of deep learning based methods for HDR image synthesis
 * **_HDR image reconstruction from a single exposure using deep CNNs_** <br>
 `SiGGRAPH Asia 2017` | [`Paper`](https://arxiv.org/abs/1710.07480) | [`Project`](http://hdrv.org/hdrcnn/)
 
+* **_ExpandNet: A Deep Convolutional Neural Network for High Dynamic Range Expansion from Low Dynamic Range Content_** <br>
+`Eurographics 2018/Computer Graphics Forum` | [`paper`](https://arxiv.org/pdf/1803.02266.pdf) | [`code`](https://github.com/dmarnerides/hdr-expandnet)
+
 * **_Deep Chain HDRI: Reconstructing a High Dynamic Range Image from a Single Low Dynamic Range Image_** <br>
 `IEEE Access 2018` | [`Paper`](https://arxiv.org/abs/1801.06277)
 
