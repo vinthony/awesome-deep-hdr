@@ -71,6 +71,9 @@ A collection of deep learning based methods for HDR image synthesis
 * **_JSI-GAN: GAN-Based Joint Super-Resolution and Inverse Tone-Mapping with Pixel-Wise Task-Specific Filters for UHD HDR Video_** <br> 
 `AAAI 2020`| [`paper`](https://arxiv.org/abs/1909.04391)
 
+* **_Deep SR-ITM: Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications_** <br> 
+`ICCV 2020`| [`paper`](https://arxiv.org/abs/1904.11176)
+
 * **_HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset_** <br>
  `CVPR 2021` | [`ArXiv`](https://arxiv.org/pdf/2103.14943.pdf)
 
