@@ -68,12 +68,20 @@ A collection of deep learning based methods for HDR image synthesis
 * **_Single-frame Regularization for Temporally Stable CNNs_** <br>
 `CVPR 2019` | [`project`](http://hdrv.org/hdrcnn/cvpr2019)
 
+* **_Deep SR-ITM: Joint Learning of Super-Resolution and Inverse Tone-Mapping for 4K UHD HDR Applications_** <br> 
+`ICCV 2019`| [`paper`](https://arxiv.org/abs/1904.11176)
+
 * **_JSI-GAN: GAN-Based Joint Super-Resolution and Inverse Tone-Mapping with Pixel-Wise Task-Specific Filters for UHD HDR Video_** <br> 
 `AAAI 2020`| [`paper`](https://arxiv.org/abs/1909.04391)
+
+
 
 * **_HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset_** <br>
  `CVPR 2021` | [`ArXiv`](https://arxiv.org/pdf/2103.14943.pdf)
 
+* **_A New Journey from SDRTV to HDRTV_** <br>
+ `ICCV 2021` | [`code`](https://github.com/chxy95/HDRTVNet)
+ 
 ### Dataset
 * [[Kalantari Dataset in SIGGRAPH17]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
 * [[CVPR19 Single Frame]](https://alex04072000.github.io/SingleHDR/)
