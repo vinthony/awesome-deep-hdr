@@ -74,6 +74,9 @@ A collection of deep learning based methods for HDR image synthesis
 * **_HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset_** <br>
  `CVPR 2021` | [`ArXiv`](https://arxiv.org/pdf/2103.14943.pdf)
 
+* **_A New Journey from SDRTV to HDRTV_** <br>
+ `ICCV 2021` | 
+ 
 ### Dataset
 * [[Kalantari Dataset in SIGGRAPH17]](https://cseweb.ucsd.edu/~viscomp/projects/SIG17HDR/)
 * [[CVPR19 Single Frame]](https://alex04072000.github.io/SingleHDR/)
