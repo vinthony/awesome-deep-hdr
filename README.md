@@ -77,7 +77,7 @@ A collection of deep learning based methods for HDR image synthesis
 
 
 * **_HDR Video Reconstruction: A Coarse-to-fine Network and A Real-world Benchmark Dataset_** <br>
- `CVPR 2021` | [`ArXiv`](https://arxiv.org/pdf/2103.14943.pdf)
+ `ICCV 2021` | [`ArXiv`](https://arxiv.org/pdf/2103.14943.pdf) | [`Project`](https://guanyingc.github.io/DeepHDRVideo/) | [`Code::Pytorch`](https://github.com/guanyingc/DeepHDRVideo) | [`Dataset`](https://github.com/guanyingc/DeepHDRVideo-Dataset)
 
 * **_A New Journey from SDRTV to HDRTV_** <br>
  `ICCV 2021` | [`code`](https://github.com/chxy95/HDRTVNet)
