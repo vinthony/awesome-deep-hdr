@@ -34,7 +34,7 @@ A collection of deep learning based methods for HDR image synthesis
 `Eurographics 2018/Computer Graphics Forum` | [`paper`](https://arxiv.org/pdf/1803.02266.pdf) | [`code`](https://github.com/dmarnerides/hdr-expandnet)
 
 * **_Deep Chain HDRI: Reconstructing a High Dynamic Range Image from a Single Low Dynamic Range Image_** <br>
-`IEEE Access 2018` | [`Paper`](https://arxiv.org/abs/1801.06277)
+`IEEE Access 2018` | [`Paper`](https://arxiv.org/abs/1801.06277) | [`Project`](https://siyeong-lee.github.io/hdr_vds_dataset/) | [`Dataset`](https://drive.google.com/drive/folders/1i7iTC6t6e_ZhyCq178V3-nN-IS5-5WOe)
 
 * **_Deep Recursive HDRI: Inverse Tone Mapping using Generative Adversarial Networks_**<br>
 `ECCV 2018` | [`Paper`](http://openaccess.thecvf.com/content_ECCV_2018/papers/Siyeong_Lee_Deep_Recursive_HDRI_ECCV_2018_paper.pdf) |  [`code`](https://github.com/Siyeong-Lee/Deep_Recursive_HDRI)
